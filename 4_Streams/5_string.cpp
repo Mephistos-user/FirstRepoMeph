@@ -18,3 +18,4 @@ int	main()
     
     return 0;
 }
+//gcc main.cpp -o a.out - компиляция исполняемого файла
